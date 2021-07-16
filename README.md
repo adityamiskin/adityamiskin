@@ -21,10 +21,10 @@
 
 ## 🦸&nbsp; My Github Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityamiskin&layout=compact&theme=react" alt="ankitapuri" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityamiskin&layout=compact&theme=react" alt="Aditya Miskin" /></p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=adityamiskin&show_icons=true&include_all_commits=true&theme=react" alt="Aditya's github stats" />
-</a>
+<p>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=adityamiskin&show_icons=true&include_all_commits=true&theme=react" alt="Aditya's github stats" />
+</p>
 
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=adityamiskin&theme=react)](https://github.com/adityamiskin/github-readme-streak-stats)
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=adityamiskin&theme=react" alt="aditya" /></p>
