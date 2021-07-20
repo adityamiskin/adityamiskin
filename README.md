@@ -4,12 +4,13 @@
 
 ## 👨🏻‍💻&nbsp;About Me
 
-- 💡 &nbsp; I'm a Student at NITK Surathkal (2019-2023), currently working in the field of Web and App Development.
-- 🌱 &nbsp;I'm on track to learning more about the usage of Machine learning in Web and Mobile apps.
-- ✍️ &nbsp;In my free time, I play FPS games, read books and pursue cooking as my hobbies.
+- 💡 &nbsp; I'm a Student at NITK Surathkal (2019-2023), currently working in the field of Web and App Development
+- 🌱 &nbsp;I'm on track to learning more about the usage of Machine learning in Web and Mobile apps
+- 🥅 &nbsp;Goals: Contribute more to Open Source projects
+- ✍️ &nbsp;In my free time, I play FPS games, read books and pursue cooking as my hobbies
 - 📫 &nbsp;You can email me at adityamiskin98@gmail.com. I'll try to respond as soon as possible!
-- 📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1hvpmkWyYMhf7rE9e7qYT06OqGQevirJz/view?usp=sharing) for more details about Me.
-- ⚡ &nbsp;Fun fact: I know all the memes 😆🤪.
+- 📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1hvpmkWyYMhf7rE9e7qYT06OqGQevirJz/view?usp=sharing) for more details about Me
+- ⚡ &nbsp;Fun fact: I know all the memes 😆🤪
 
 ## 🚀&nbsp;My skills
 
@@ -17,14 +18,10 @@
 
 ## 📫 &nbsp; Connect With Me
 
-<a href="https://www.linkedin.com/in/aditya-miskin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>&nbsp; <a href="mailto:adityamiskin98@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>&nbsp; <a href="https://twitter.com/AdityaMiskin3"><img src="https://img.shields.io/badge/-@AdityaMiskin3_-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-miskin/)&nbsp; [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](adityamiskin98@gmail.com)&nbsp; [![Twitter](https://img.shields.io/badge/-@AdityaMiskin3_-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/AdityaMiskin3)&nbsp; [![Website](https://img.shields.io/badge/-Website_-orange?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAQAAAC1+jfqAAAAAnNCSVQICFXsRgQAAAAJcEhZcwAAAHYAAAB2AU57JggAAAAZdEVYdFNvZnR3YXJlAHd3dy5pbmtzY2FwZS5vcmeb7jwaAAABLklEQVQYGQXBO2sTUAAG0BOQUm0WERTxhRDaoX9B4Q4KdzHWIQ62So0oWqXVDGnzoHVRMQUF36IiFlcnaVyc3F39O5/niIjQMvDPX7/98EgrIkKEAwbu6WirisuW3LSiESHM+u6UOYNQlTByyBkfNULYsOa1qWXzllQLVk29suZOcFQvwgcX3bLni64L3kUYabHjYIRJhKpEmERo2mQ7wnEbEaoSYdPhCGN2FcV9Q0XR91BRPHZbUXxiT1X17Kiqkb6qeuKBqvrGOMIJ6xGqEqHvSISn3DUbGp5HqEqESYSmZ8zbivDWecs+e++ac95EGDordHW9tO+6RR1ti7r2vdDVCxF2ndQ0DFUJY3NO+2omRJixquOqS6qi7YobVjQiREQ4ZssvP/0xtW4hIuI/NWmMr/n4GUsAAAAASUVORK5CYII=)](https://aditya-miskin.herokuapp.com/)&nbsp;
 
 ## 🦸&nbsp; My Github Stats
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityamiskin&layout=compact&theme=react" alt="Aditya Miskin" /></p>
+[![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=adityamiskin&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=adityamiskin&show_icons=true&include_all_commits=true&theme=react" alt="Aditya's github stats" />
-</p>
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=adityamiskin&theme=react" alt="aditya" /></p>
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=adityamiskin&theme=react)](https://github.com/DenverCoder1/github-readme-streak-stats)
