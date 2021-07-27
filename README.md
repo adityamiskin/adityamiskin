@@ -1,4 +1,4 @@
-[![Website](assets/miskinbg2.png)](https://aditya-miskin.herokuapp.com/)
+[![Website](assets/miskinbg2.webp)](https://aditya-miskin.herokuapp.com/)
 
 ## 👨🏻‍💻&nbsp;About Me
 
@@ -40,10 +40,10 @@
   <em>Let's connect and chat! Open to anything under the sun.</em>
   <p align="center">
     <a href="https://twitter.com/AdityaMiskin3" alt="Twitter">
-    <img src="assets/twitter-fill.svg">
+    <img src="assets/twitter.svg">
     </a>&nbsp;
     <a href="https://www.linkedin.com/in/aditya-miskin/" alt="Linkedin">
-    <img src="assets/linkedin-fill.svg">
+    <img src="assets/linkedin.svg">
     </a>&nbsp;
     <a href="mailto:adityamiskin98@gmail.com" alt="Contact me">
     <img src="assets/gmail.svg" width="22">
@@ -56,4 +56,4 @@
       <img align="center" src="https://komarev.com/ghpvc/?username=adityamiskin&color=red">
   </p>
 
-![bottom svg](/assets/bottom.svg)
+![bottom svg](assets/bottom.svg)
