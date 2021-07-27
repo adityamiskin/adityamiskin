@@ -1,4 +1,6 @@
-[![Website](https://github.com/adityamiskin/adityamiskin/raw/main/assets/miskinbg2.webp)](https://aditya-miskin.herokuapp.com/)
+<a href="https://aditya-miskin.herokuapp.com/">
+<img src="https://github.com/adityamiskin/adityamiskin/raw/main/assets/miskinbg2.webp"/>
+</a>
 
 ## 👨🏻‍💻&nbsp;About Me
 
@@ -30,9 +32,9 @@
 
 ## ⚡&nbsp; My Github Stats
 
-[![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=adityamiskin&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=adityamiskin&theme=react)
 
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=adityamiskin&theme=react)](https/assets://github.com/DenverCoder1/github-readme-streak-stats)
+![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=adityamiskin&theme=react)
 
 ## 📫 &nbsp; Connect With Me
 
