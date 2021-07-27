@@ -12,7 +12,7 @@
 
 ## 🚀&nbsp;My skills
 
-![Python](/assets/icons/python.svg)&nbsp; ![JavaScript](/assets/icons/javascript.svg)&nbsp; ![C++](/assets/icons/c++.svg)&nbsp; ![Bootstrap](/assets/icons/bootstrap.svg)&nbsp; ![HTML](/assets/icons/html.svg)&nbsp; ![CSS](/assets/icons/css3.svg)&nbsp; ![Git](/assets/icons/git.svg)&nbsp; ![GitHub](/assets/icons/github.svg)&nbsp; ![Visual Studio Code](/assets/icons/vscode.svg)&nbsp; ![React](/assets/icons/react.svg)&nbsp; ![Tensorflow](/assets/icons/tensorflow.svg)&nbsp; ![NodeJS](/assets/icons/nodejs.svg)&nbsp; ![Flutter](/assets/icons/flutter.svg)&nbsp; ![Dart](/assets/icons/dart.svg)&nbsp; ![Android Studio](/assets/icons/android.svg) &nbsp;
+![Python](/assets/python.svg)&nbsp; ![JavaScript](/assets/javascript.svg)&nbsp; ![C++](/assets/c++.svg)&nbsp; ![Bootstrap](/assets/bootstrap.svg)&nbsp; ![HTML](/assets/html.svg)&nbsp; ![CSS](/assets/css3.svg)&nbsp; ![Git](/assets/git.svg)&nbsp; ![GitHub](/assets/github.svg)&nbsp; ![Visual Studio Code](/assets/vscode.svg)&nbsp; ![React](/assets/react.svg)&nbsp; ![Tensorflow](/assets/tensorflow.svg)&nbsp; ![NodeJS](/assets/nodejs.svg)&nbsp; ![Flutter](/assets/flutter.svg)&nbsp; ![Dart](/assets/dart.svg)&nbsp; ![Android Studio](/assets/android.svg) &nbsp;
 
 ## ⚡&nbsp; My Github Stats
 
