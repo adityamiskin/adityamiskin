@@ -51,7 +51,7 @@
     <img src="https://raw.githubusercontent.com/adityamiskin/adityamiskin/main/assets/gmail.svg" width="22">
     </a>&nbsp;
     <a href="https://aditya-miskin.herokuapp.com/" alt="My site">
-    <img src="assets/link.png" width="22">
+    <img src="https://raw.githubusercontent.com/adityamiskin/adityamiskin/main/assets/link.svg" width="22">
     </a>
   </p>
   <p align="center">
