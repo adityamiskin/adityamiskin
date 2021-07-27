@@ -1,4 +1,4 @@
-[![Website](assets/miskinbg2.webp)](https://aditya-miskin.herokuapp.com/)
+[![Website](https://github.com/adityamiskin/adityamiskin/raw/main/assets/miskinbg2.webp)](https://aditya-miskin.herokuapp.com/)
 
 ## 👨🏻‍💻&nbsp;About Me
 
