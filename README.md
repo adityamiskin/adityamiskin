@@ -1,4 +1,4 @@
-[![Website](/assets/miskinbg2.png)](https://aditya-miskin.herokuapp.com/)
+[![Website](assets/miskinbg2.png)](https://aditya-miskin.herokuapp.com/)
 
 ## 👨🏻‍💻&nbsp;About Me
 
@@ -12,7 +12,21 @@
 
 ## 🚀&nbsp;My skills
 
-![Python](/assets/python.svg)&nbsp; ![JavaScript](/assets/javascript.svg)&nbsp; ![C++](/assets/c++.svg)&nbsp; ![Bootstrap](/assets/bootstrap.svg)&nbsp; ![HTML](/assets/html.svg)&nbsp; ![CSS](/assets/css3.svg)&nbsp; ![Git](/assets/git.svg)&nbsp; ![GitHub](/assets/github.svg)&nbsp; ![Visual Studio Code](/assets/vscode.svg)&nbsp; ![React](/assets/react.svg)&nbsp; ![Tensorflow](/assets/tensorflow.svg)&nbsp; ![NodeJS](/assets/nodejs.svg)&nbsp; ![Flutter](/assets/flutter.svg)&nbsp; ![Dart](/assets/dart.svg)&nbsp; ![Android Studio](/assets/android.svg) &nbsp;
+![Python](assets/python.svg)
+![JavaScript](assets/javascript.svg)
+![C++](assets/c++.svg)
+![Bootstrap](assets/bootstrap.svg)
+![HTML](assets/html.svg)
+![CSS](assets/css3.svg)
+![Git](assets/git.svg)
+![GitHub](assets/github.svg)
+![Visual Studio Code](assets/vscode.svg)
+![React](assets/react.svg)
+![Tensorflow](assets/tensorflow.svg)
+![NodeJS](assets/nodejs.svg)
+![Flutter](assets/flutter.svg)
+![Dart](assets/dart.svg)
+![Android Studio](assets/android.svg)
 
 ## ⚡&nbsp; My Github Stats
 
@@ -23,12 +37,20 @@
 ## 📫 &nbsp; Connect With Me
 
 <p align="center">
-  <i>Let's connect and chat! Open to anything under the sun.</i>
+  <em>Let's connect and chat! Open to anything under the sun.</em>
   <p align="center">
-    <a href="https://twitter.com/AdityaMiskin3" alt="Twitter"><img src="/assets/twitter-fill.svg"></a>
-    <a href="https://www.linkedin.com/in/aditya-miskin/" alt="Linkedin"><img src="/assets/linkedin-fill.svg"></a>
-    <a href="mailto:adityamiskin98@gmail.com" alt="Contact me"><img src="/assets/mail-fill.svg"></a>
-    <a href="https://aditya-miskin.herokuapp.com/" alt="My site"><img src="/assets/external-link-line.svg"></a>
+    <a href="https://twitter.com/AdityaMiskin3" alt="Twitter">
+    <img src="assets/twitter-fill.svg">
+    </a>&nbsp;
+    <a href="https://www.linkedin.com/in/aditya-miskin/" alt="Linkedin">
+    <img src="assets/linkedin-fill.svg">
+    </a>&nbsp;
+    <a href="mailto:adityamiskin98@gmail.com" alt="Contact me">
+    <img src="assets/gmail.svg" width="22">
+    </a>&nbsp;
+    <a href="https://aditya-miskin.herokuapp.com/" alt="My site">
+    <img src="assets/link.png" width="22">
+    </a>
   </p>
   <p align="center">
       <img align="center" src="https://komarev.com/ghpvc/?username=adityamiskin&color=red">
