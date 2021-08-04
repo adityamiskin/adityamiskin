@@ -1,4 +1,4 @@
-<a href="https://aditya-miskin.herokuapp.com/">
+<a href="https://www.adityamiskin.social/">
 <img src="https://raw.githubusercontent.com/adityamiskin/adityamiskin/main/assets/miskinbg2.webp"/>
 </a>
 
@@ -9,7 +9,7 @@
 - 🥅 &nbsp;Goals: Contribute more to Open Source projects
 - ✍️ &nbsp;In my free time, I play FPS games, read books and pursue cooking as my hobbies
 - 📫 &nbsp;You can email me at adityamiskin98@gmail.com. I'll try to respond as soon as possible!
-- 📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1hvpmkWyYMhf7rE9e7qYT06OqGQevirJz/view?usp=sharing) for more details about Me
+- 📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1pWOaCHl5ey2fIFpqLR5ptFaequt9MBAn/view?usp=sharing) for more details about Me
 - ⚡ &nbsp;Fun fact: I know all the memes 😆🤪
 
 ## 🚀&nbsp;My skills
@@ -50,8 +50,8 @@
     <a href="mailto:adityamiskin98@gmail.com" alt="Contact me">
     <img src="https://raw.githubusercontent.com/adityamiskin/adityamiskin/main/assets/gmail.svg" width="22">
     </a>&nbsp;
-    <a href="https://aditya-miskin.herokuapp.com/" alt="My site">
-    <img src="assets/link.png" width="22">
+    <a href="https://www.adityamiskin.social/" alt="My site">
+    <img src="assets/link.svg" width="22">
     </a>
   </p>
   <p align="center">
