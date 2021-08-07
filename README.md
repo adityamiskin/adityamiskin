@@ -5,7 +5,7 @@
 ## 👨🏻‍💻&nbsp;About Me
 
 - 💡 &nbsp; I'm a Student at NITK Surathkal (2019-2023), currently working in the field of Web and App Development
-- 🌱 &nbsp;I'm on track to learning more about the usage of Machine learning in Web and Mobile apps
+- 🌱 &nbsp;I'm on track to learn more about usage of Machine learning in Web and Mobile apps
 - 🥅 &nbsp;Goals: Contribute more to Open Source projects
 - ✍️ &nbsp;In my free time, I play FPS games, read books and pursue cooking as my hobbies
 - 📫 &nbsp;You can email me at adityamiskin98@gmail.com. I'll try to respond as soon as possible!
@@ -34,7 +34,7 @@
 
 ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=adityamiskin&theme=react)
 
-![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=adityamiskin&theme=react)
+![Aditya's github streak](https://github-readme-streak-stats.herokuapp.com/?user=adityamiskin&theme=react)
 
 ## 📫 &nbsp; Connect With Me
 
