@@ -4,13 +4,13 @@
 
 ## 👨🏻‍💻&nbsp;About Me
 
-- 💡 &nbsp; I'm a Student at NITK Surathkal (2019-2023), currently working in the field of Web and App Development
-- 🌱 &nbsp;I'm on track to learn more about usage of Machine learning in Web and Mobile apps
+- 💡 &nbsp; I'm a Student at NITK Surathkal (2019-2023), currently working in the field of Web Development and Machine Learning.
+- 🌱 &nbsp;I'm on track to learn more about usage of Machine learning in Web.
 - 🥅 &nbsp;Goals: Contribute more to Open Source projects
 - ✍️ &nbsp;In my free time, I play FPS games, read books and pursue cooking as my hobbies
 - 📫 &nbsp;You can email me at adityamiskin98@gmail.com. I'll try to respond as soon as possible!
 - 📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1vcZuMpWLirjbk_POncp6-W7ZxPj_H8jT/view?usp=sharing) for more details about Me
-- ⚡ &nbsp;Fun fact: I know all the memes 😆🤪
+
 
 ## 🚀&nbsp;My skills
 
