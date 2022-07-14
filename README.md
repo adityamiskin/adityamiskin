@@ -9,7 +9,7 @@
 - 🥅 &nbsp;Goals: Contribute more to Open Source projects
 - ✍️ &nbsp;In my free time, I play FPS games, read books and pursue cooking as my hobbies
 - 📫 &nbsp;You can email me at adityamiskin98@gmail.com. I'll try to respond as soon as possible!
-- 📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1pWOaCHl5ey2fIFpqLR5ptFaequt9MBAn/view?usp=sharing) for more details about Me
+- 📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1vcZuMpWLirjbk_POncp6-W7ZxPj_H8jT/view?usp=sharing) for more details about Me
 - ⚡ &nbsp;Fun fact: I know all the memes 😆🤪
 
 ## 🚀&nbsp;My skills
@@ -26,9 +26,7 @@
 ![React](https://raw.githubusercontent.com/adityamiskin/adityamiskin/main/assets/react.svg)
 ![Tensorflow](https://raw.githubusercontent.com/adityamiskin/adityamiskin/main/assets/tensorflow.svg)
 ![NodeJS](https://raw.githubusercontent.com/adityamiskin/adityamiskin/main/assets/nodejs.svg)
-![Flutter](https://raw.githubusercontent.com/adityamiskin/adityamiskin/main/assets/flutter.svg)
-![Dart](https://raw.githubusercontent.com/adityamiskin/adityamiskin/main/assets/dart.svg)
-![Android Studio](https://raw.githubusercontent.com/adityamiskin/adityamiskin/main/assets/android.svg)
+
 
 ## ⚡&nbsp; My Github Stats
 
