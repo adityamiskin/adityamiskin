@@ -1,4 +1,4 @@
-<a href="https://www.adityamiskin.social/">
+<a href="https://adityamiskin.github.io/">
 <img src="https://raw.githubusercontent.com/adityamiskin/adityamiskin/main/assets/miskinbg2.webp"/>
 </a>
 
@@ -48,7 +48,7 @@
     <a href="mailto:adityamiskin98@gmail.com" alt="Contact me">
     <img src="https://raw.githubusercontent.com/adityamiskin/adityamiskin/main/assets/gmail.svg" width="22">
     </a>&nbsp;
-    <a href="https://www.adityamiskin.social/" alt="My site">
+    <a href="https://adityamiskin.github.io/" alt="My site">
     <img src="https://raw.githubusercontent.com/adityamiskin/adityamiskin/main/assets/link.svg" width="22">
     </a>
   </p>
