@@ -28,12 +28,6 @@
 ![NodeJS](https://raw.githubusercontent.com/adityamiskin/adityamiskin/main/assets/nodejs.svg)
 
 
-## ⚡&nbsp; My Github Stats
-
-![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=adityamiskin&theme=react)
-
-![Aditya's github streak](https://github-readme-streak-stats.herokuapp.com/?user=adityamiskin&theme=react)
-
 ## 📫 &nbsp; Connect With Me
 
 <p align="center">
