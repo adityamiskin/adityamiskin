@@ -9,7 +9,7 @@
 - 🥅 &nbsp;Goals: Contribute more to Open Source projects
 - ✍️ &nbsp;In my free time, I play FPS games, read books and pursue cooking as my hobbies
 - 📫 &nbsp;You can email me at adityamiskin98@gmail.com. I'll try to respond as soon as possible!
-- 📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1vcZuMpWLirjbk_POncp6-W7ZxPj_H8jT/view?usp=sharing) for more details about Me
+- 📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1FzwS86fOtfUZGkA39AKZWcoyENBSavha/view?usp=drive_link) for more details about Me
 
 
 ## 🚀&nbsp;My skills
