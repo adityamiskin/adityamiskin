@@ -46,8 +46,5 @@
     <img src="https://raw.githubusercontent.com/adityamiskin/adityamiskin/main/assets/link.svg" width="22">
     </a>
   </p>
-  <p align="center">
-      <img align="center" src="https://komarev.com/ghpvc/?username=adityamiskin&color=red">
-  </p>
 
 ![bottom svg](https://raw.githubusercontent.com/adityamiskin/adityamiskin/main/assets/bottom.svg)
