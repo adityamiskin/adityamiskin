@@ -1,4 +1,4 @@
-<a href="https://adityamiskin.github.io/">
+<a href="https://adityamiskin.com/">
 <img src="https://raw.githubusercontent.com/adityamiskin/adityamiskin/main/assets/miskinbg2.webp"/>
 </a>
 
