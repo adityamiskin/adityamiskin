@@ -4,12 +4,12 @@
 
 ## 👨🏻‍💻&nbsp;About Me
 
-- 💡 &nbsp; I'm a Student at NITK Surathkal (2019-2023), currently working in the field of Web Development and Machine Learning.
-- 🌱 &nbsp;I'm on track to learn more about usage of Machine learning in Web.
-- 🥅 &nbsp;Goals: Contribute more to Open Source projects
-- ✍️ &nbsp;In my free time, I play FPS games, read books and pursue cooking as my hobbies
+- 💡 &nbsp; I'm a Software Developer, currently working in the field of Data Science and AI. I often work on web development as well for my side projects.
+- 🌱 &nbsp;I'm on track to learn more about usage of AI in daily life.
+- 🥅 &nbsp;Goals: Build and deploy my own SaaS product.
+- ✍️ &nbsp;In my free time, I do photography, learn guitar and play games.
 - 📫 &nbsp;You can email me at adityamiskin98@gmail.com. I'll try to respond as soon as possible!
-- 📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1FzwS86fOtfUZGkA39AKZWcoyENBSavha/view?usp=drive_link) for more details about Me
+- 📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1FNhPrthCFp8oFNeC0Ve9pj9fte2GKg1X/view?usp=drive_link) for more details about Me
 
 
 ## 🚀&nbsp;My skills
@@ -42,7 +42,7 @@
     <a href="mailto:adityamiskin98@gmail.com" alt="Contact me">
     <img src="https://raw.githubusercontent.com/adityamiskin/adityamiskin/main/assets/gmail.svg" width="22">
     </a>&nbsp;
-    <a href="https://adityamiskin.github.io/" alt="My site">
+    <a href="https://adityamiskin.com" alt="My site">
     <img src="https://raw.githubusercontent.com/adityamiskin/adityamiskin/main/assets/link.svg" width="22">
     </a>
   </p>
