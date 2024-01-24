@@ -36,7 +36,7 @@
     <a href="https://twitter.com/AdityaMiskin3" alt="Twitter">
     <img src="https://raw.githubusercontent.com/adityamiskin/adityamiskin/main/assets/twitter.svg">
     </a>&nbsp;
-    <a href="https://www.linkedin.com/in/aditya-miskin/" alt="Linkedin">
+    <a href="https://www.linkedin.com/in/adityamiskin/" alt="Linkedin">
     <img src="https://raw.githubusercontent.com/adityamiskin/adityamiskin/main/assets/linkedin.svg">
     </a>&nbsp;
     <a href="mailto:adityamiskin98@gmail.com" alt="Contact me">
