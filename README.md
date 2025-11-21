@@ -9,7 +9,7 @@
 - 🥅 &nbsp;Goals: Build and deploy my own SaaS product.
 - ✍️ &nbsp;In my free time, I do photography, learn guitar and play games.
 - 📫 &nbsp;You can email me at adityamiskin98@gmail.com. I'll try to respond as soon as possible!
-- 📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1FNhPrthCFp8oFNeC0Ve9pj9fte2GKg1X/view?usp=drive_link) for more details about Me
+- 📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/12uiedKhDRLFK5DbC2ZRyuSqTMYwC5M7F/view?usp=drive_link) for more details about Me
 
 
 ## 🚀&nbsp;My skills
@@ -17,14 +17,12 @@
 ![Python](https://raw.githubusercontent.com/adityamiskin/adityamiskin/main/assets/python.svg)
 ![JavaScript](https://raw.githubusercontent.com/adityamiskin/adityamiskin/main/assets/javascript.svg)
 ![C++](https://raw.githubusercontent.com/adityamiskin/adityamiskin/main/assets/c%2B%2B.svg)
-![Bootstrap](https://raw.githubusercontent.com/adityamiskin/adityamiskin/main/assets/bootstrap.svg)
 ![HTML](https://raw.githubusercontent.com/adityamiskin/adityamiskin/main/assets/html.svg)
 ![CSS](https://raw.githubusercontent.com/adityamiskin/adityamiskin/main/assets/css3.svg)
 ![Git](https://raw.githubusercontent.com/adityamiskin/adityamiskin/main/assets/git.svg)
 ![GitHub](https://raw.githubusercontent.com/adityamiskin/adityamiskin/main/assets/github.svg)
 ![Visual Studio Code](https://raw.githubusercontent.com/adityamiskin/adityamiskin/main/assets/vscode.svg)
 ![React](https://raw.githubusercontent.com/adityamiskin/adityamiskin/main/assets/react.svg)
-![Tensorflow](https://raw.githubusercontent.com/adityamiskin/adityamiskin/main/assets/tensorflow.svg)
 ![NodeJS](https://raw.githubusercontent.com/adityamiskin/adityamiskin/main/assets/nodejs.svg)
 
 
